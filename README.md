@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**merveperk/merveperk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://sdk.bitmoji.com/render/panel/20054902-100378783928_1-s5-v1.png?transparent=1&palette=1&scale=2" width="130"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/merve-perk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+### Hey there :wave: Welcome to my GitHub Profile
 
-Here are some ideas to get you started:
+<hr>
+<div id="banner" align="center">
+<img src="https://img.freepik.com/free-vector/freelancer-working-laptop-her-house_1150-35054.jpg?w=1060&t=st=1672919658~exp=1672920258~hmac=f47fcef60610801f6cad5eaf1ff13590901b4fffc5b0c81ee5552210091d8786" width="350px"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :black_nib:About Me
+#### :woman_technologist:I'm a Junior Front-End Developer from UK
+#### 🌱 I’m currently learning React.JS
+#### 📫 How to reach me: merveperk@gmail.com
+#### ⚡ Fun fact: I'm really good at cooking!
+<hr>
+
+### :hammer_and_wrench: Languages:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
