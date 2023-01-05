@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://sdk.bitmoji.com/render/panel/20054902-100378783928_1-s5-v1.png?transparent=1&palette=1&scale=2" width="130"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/merve-perk/" target="_blank">
+  <a href="https://www.linkedin.com/in/merve-perk/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
