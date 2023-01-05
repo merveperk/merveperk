@@ -14,7 +14,7 @@
 </div>
 
 ### :black_nib:About Me
-#### :woman_technologist:I'm a Junior Front-End Developer from UK
+#### :woman_technologist:I am an entry-level frontend web developer from UK
 #### 🌱 I’m currently learning React.JS
 #### 📫 How to reach me: merveperk@gmail.com
 #### ⚡ Fun fact: I'm really good at cooking!
