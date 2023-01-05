@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-### Hey there :wave: Welcome to my GitHub Profile
+### Hey there :wave: Welcome to my profile
 
 
 <div id="banner" align="center">
