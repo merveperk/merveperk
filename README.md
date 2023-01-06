@@ -28,7 +28,7 @@
   <a href ="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>
   <a href ="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>
   <a href ="https://sass-lang.com/"><img src="https://avatars.githubusercontent.com/u/317889?s=200&v=4" title="Sass" alt="Sass" width="40" height="40"/></a>
-  
+  <a href ="https://getbootstrap.com/"><img src="[https://avatars.githubusercontent.com/u/317889?s=200&v=4](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png)" title="Bootstrap" alt="Bootsrap" width="40" height="40"/></a>
   
   
 </div>
