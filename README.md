@@ -13,7 +13,7 @@
 <img src="https://img.freepik.com/free-vector/freelancer-working-laptop-her-house_1150-35054.jpg?w=1060&t=st=1672919658~exp=1672920258~hmac=f47fcef60610801f6cad5eaf1ff13590901b4fffc5b0c81ee5552210091d8786" width="350px"/>
 </div>
 
-### :black_nib:About Me
+### :black_nib:About Me:
 #### :woman_technologist:I am an entry-level frontend web developer from UK
 #### 🌱 I’m currently learning React.JS
 #### 📫 How to reach me: merveperk@gmail.com
